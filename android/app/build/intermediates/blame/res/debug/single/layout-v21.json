@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/nguyenchithanh/.android/build-cache/517eb689b88ee9c818766feec7e9d5e414ea28cd/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/nguyenchithanh/.android/build-cache/517eb689b88ee9c818766feec7e9d5e414ea28cd/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/nguyenchithanh/.android/build-cache/517eb689b88ee9c818766feec7e9d5e414ea28cd/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/nguyenchithanh/.android/build-cache/517eb689b88ee9c818766feec7e9d5e414ea28cd/output/res/layout-v21/notification_action.xml"
+    }
+]

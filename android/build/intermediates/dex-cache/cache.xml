@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_aebd059e6f7db0c878b13cf3c9ff9f7fc5d65156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/63bd0504b9c89eff3aa59917e66e2ad3ec69adef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_b37dca56672866b2bae1e857bdc1657c237e1d68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/5dd88c7a02d20b0f813df697007c5fd50460a4e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="4096514ce1185b89df80681e982486efa30e440e">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_d10dc2313b6c02f66dee8583fd5d5e0c8a5dff1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_f54b296f65298ce26148e125c3cffba41d20f791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_46d50872dd48fc84b1ab363cb557ca869847c645.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/dbf8f9320831fb1b73afa3ff94fe9c843c88bd62/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_6f853f748edc580847cec93c87130efb68fb56c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_0df9573a7a798ff7f5f994cf0e8f6feacdc64f55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/30a54a3793644005e2ae2787f920a2fa5a4e10c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="25cdd380f0a1b2f67a0b7253bbf1f343df981e5e">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_2e4e0365d5cea70fb931c841e14f2c8889e8d560.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/9d6467d7ffa1ea720862796b195a5d852f2e347c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_601d4aa9ecd718984305dc4110d93c593981e9b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/fead2906ec539421b361ec239f0d03a62b9d1528/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_0afb33cda4db448816a3d3826b843dc514c4886a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/4e17b1388a609007b868e8fe1df044a60f35f99c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a08c6dadfd96a281d9fddf59a767749e43064c23">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_bef899a33e4b6007693e26072a53da426e310bbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/68e263a821bf5ed00def675fe235001c549c1b63/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_55f4f39a22d658dc061d8b81f653afa30586d23b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_337d602f64c5346b05bcc445e53ffe241f408e03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/node_modules/react-native-push-notification/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3de81fa84e42144d35b5f13d5ac856264fae7c10">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_14df9b8e48c96f4fc9de71f1a634484c8ef83b9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_a8f909b564836d162ccc5a4ab5968a0f25663b6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/e767599af732a83ac8e8c3638c72e35411e75dd1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_061768552ac980e0c108503388e552cf1aa852aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/c280b254bb385a8416c8740601dd04c8bb318fc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_08b9ecea30f8608c0336d45667b79732b1282017.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/8e944bd9d1595e38804216f52f87e91c61784160/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_fb702102adfd4929a4ddfdb608336fc90aa93cf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/de672074e52aaeb706601595630b0ef6cfb46efc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_65e50341973d273c68898948386f24cf03f24b7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/5b616cb341198fd654fd2971addd135d428f432c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_ffd40ebee7391ca21feaba3ac6d9581ddc3e288f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/c301b4e1c6ac8995e41473dfd2b9a341e563261c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c5a0f010d8429fa087ba3ce882cd24af9027868a">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_43cf564b079f66059b78beec290933d5b8aad4c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_4cf91b20915ac93ea79af4e1238daf160675c155.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_4204215f9fe9fff1124473f2de74c4085972a91d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/4263980a935bf9a270883085e6facb51385ae9bc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d2bb0c3fd1a65a72ae32cc00cc54fdcbe8c8ca73">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_253c2ef0fb86e942ba9bd961c990098ed574c2be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/3f696c75f3b5cc4fe312eb9127ed206d0331cf65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dd86dfc9c6946cf3fc34ba8bebd49e0e0845a89e">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_771846d246436c60caf3d02c09e4533b97f5963b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/3a48bdb9bac46aaf4857dcf2c1625c34bdf3936a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5b9f57b1fb76487516b73b908f54c60c48202d84">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_e3decf190195a7f548fa382a1aad3c1ddc319ed8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/5871f0b01fc907259117e5c0ce820ecaad8d303a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_04d2f8e1301e4d24526c77008d91a30bcf84a715.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/525c26e49786add9d66edf3d1da991e2f01b53fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_8c6f3504f7de31154e1fa72876bd7906feefb481.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/fdc8bde711e48f073415520d996bf58a3a932de0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_7dbf98a1278b8ab5ee6b890a0263c45e437fde77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_a83693cf53d4c0284fa80f9c21a0f2654ce0bf76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/855171ab7a49254cc2d6c3ebaf0fe596a3127724/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_0e40c9926e2fdc2f0fc0f0225d73a7c7a3f03dd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/1648f47c4650474203289acd31308ed17c40cace/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_7a921e10417ec061d9d9b50478a666867ea5031f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/517eb689b88ee9c818766feec7e9d5e414ea28cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_ae6fd40740f6824f9d8efbf29fdf10ed33055992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/d98004d09430f49be32aeceea31204fdc93a9e3d/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_b3acb1cbc18dc019305da8555e612184f1f473bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/f6c85879360b41bb50ac76609c8c821fce3fbc04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9b7b9f800b62f974cd3a75faf1720c010c7ac244">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_46e6815de59cb423995326cbe0998d2eafac6a11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/84227c42b05500dc38429d5b761fbcf050881b3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9d0ff1960f148dafff5b945e8596c060ff3cf88e">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_2eeacb4ff1b8e0e5bd8ac0d426907cbc61a8aed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/44ae31ef0e511a0e883ae8f05b9d93958ac4fee5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="515ee7a522ec80b8d1c23260cb28f3b678d8bdd3">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_db4ad2d712e65db49bf212129b31db500e039df9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/74900f1ef65194591f646dbc6f59fd33527c0873/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_5582a51c6e9c0ea29c2d154eca3a1ba7d15a6497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/93bf5d8a32685d9ef86916a05d3087aa66a5cc45/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="531c33d3697000a05e9493a2d0f09ba41fa114d3">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_0f605ea0814fd72e37faace0bd041eb7879738b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/aa245393ab25a21038c911ca497ac7eee1508c1c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9abdef6b3ea9a6d226f4ef13198d24e32f33ea4d">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_ae877234a0497527ec589c45ed409eac34c6c2ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/d98004d09430f49be32aeceea31204fdc93a9e3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_62db5e1f51bc6e31839e8c1e9b03d241983acc55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.android/build-cache/7169d4deaaee87c4118dead4dd4ae1c90f8752c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/classes_9c61cd1701066dd63e4034f8d01a161bf383f3a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyenchithanh/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/nguyenchithanh/Desktop/reactnative/PushNotifycation/PushNotifycation/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_9165472af428ca7ef36733ab53f2e43693f30bae.jar" />
+    </item>
+
+</items>
